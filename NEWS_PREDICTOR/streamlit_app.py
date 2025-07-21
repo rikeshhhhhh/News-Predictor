@@ -56,7 +56,7 @@ else:
         unsafe_allow_html=True,
     )
 
-st.title("📰 News Detection Model Deployment")
+st.title("📰 NEWS PREDICTOR")
 
 # Example news texts
 examples = [
