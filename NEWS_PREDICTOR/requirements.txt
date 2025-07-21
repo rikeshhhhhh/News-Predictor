@@ -1,0 +1,21 @@
+# Core libraries
+pandas
+numpy
+joblib
+
+# Machine Learning
+scikit-learn
+
+# Text processing
+nltk
+wordcloud
+
+# Visualization
+matplotlib
+seaborn
+
+# Feed parsing
+feedparser
+
+# Streamlit (for deployment)
+streamlit
